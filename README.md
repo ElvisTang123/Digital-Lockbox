@@ -8,32 +8,6 @@ After entering the unlocked state, we can press the STAR key again to re-lock, o
 * LCD Module: <br />
 It can be seen from the below specifications of the LCD module that the size of the LCD monitor we used for the lockbox is sufficient, and the color contrast is very good. It can not only display the instructions clearly but also have enough space to key in the pins. The power requirement is 3.3V, which is basically very low, so we can use a very small power supply to drive the LCD. <br />
 
-<!-- <table >
-  <tr>
-    <td>Screen Size:</td>
-    <td>55mm(width), 15mm(hight)</td>
-  </tr>
-  <tr>
-    <td>Display Size:</td>
-    <td>2 lines x 16 characters</td>
-  </tr>
-  <tr>
-    <td>Backlight:</td>
-    <td>White</td>
-  </tr>
-  <tr>
-    <td>Power Supply:</td>
-    <td>3.3V</td>
-  </tr>
-  <tr>
-    <td>Driver IC:</td>
-    <td>ST7066U 8/4-bit MPU interface</td>
-  </tr>
-  <tr>
-    <td colspan="2">State Instructions</td>
-  </tr>
-</table> -->
-
 | Screen Size: | 55mm(width), 15mm(hight)|
 | :-----------:  | :-----------: |
 | Screen Size: |55mm(width), 15mm(hight)|
