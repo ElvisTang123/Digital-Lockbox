@@ -16,6 +16,6 @@ It can be seen from the below specifications of the LCD module that the size of 
 | Power Supply: | 3.3V |
 | Driver IC: | ST7066U 8/4-bit MPU interface |
 
-| <img src="Media/28694.jpg" alt="" width="250"/> | <img src="Media/28693.jpg" alt="" width="250"/> | <img src="Media/28692.jpg" alt="" width="250"/> |
+| <img src="Media/Lock.jpg" alt="" width="250"/> | <img src="Media/Unlock.jpg" alt="" width="250"/> | <img src="Media/Reset_Pin.jpg" alt="" width="250"/> |
 | :-----------:  | :-----------: |:-----------: |
 | Figure 1. Lock Sate | Figure 2. Unlock State | Figure 3. Reset PINs |
