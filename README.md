@@ -10,7 +10,6 @@ It can be seen from the below specifications of the LCD module that the size of 
 
 | Screen Size: | 55mm(width), 15mm(hight)|
 | :-----------:  | :-----------: |
-| Screen Size: |55mm(width), 15mm(hight)|
 | Display Size: | 2 lines x 16 characters |
 | Backlight: |White|
 | Power Supply: | 3.3V |
@@ -19,3 +18,17 @@ It can be seen from the below specifications of the LCD module that the size of 
 | <img src="Media/Lock.jpg" alt="" width="250"/> | <img src="Media/Unlock.jpg" alt="" width="250"/> | <img src="Media/Reset_Pin.jpg" alt="" width="250"/> |
 | :-----------:  | :-----------: |:-----------: |
 | Figure 1. Lock Sate | Figure 2. Unlock State | Figure 3. Reset PINs |
+
+* Keypad: <br />
+It can be seen from the below specifications of the keypad that the force we are required to press is really soft, therefore it is easier and more convenient to use. Furthermore, the contact resistance is less than 100Ω, which means it won’t cause huge energy consumption. <br />
+
+| Product Dimensions: | 69.0mm x 65.5mm x 9.7mm |
+| :-----------:  | :-----------: |
+| Key Amount: |4 X 4(16 keys)|
+|Force:| 160-180g |
+| Contact Resistance: | <100Ω |
+
+| <img src="Media/Keypad.jpg" alt="" width="250"/> |
+| :-----------:  | 
+| Figure 4. Adafruit 4 X 4 Keypad |
+
