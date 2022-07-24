@@ -39,5 +39,5 @@ It can be seen from the below specifications of the keypad that the force we are
 
 # Schematic
 <p align="center">
-  <img src="Media/Schematic.jpg" alt="" width="70%"/>
+  <img src="Media/Schematic.jpg" alt="" width="90%"/>
 </p>
